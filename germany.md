@@ -6,6 +6,7 @@ Some tools listed here may have changed their headquarters locations.
 # Artificial Intelligence
 - [Black Forest Labs](https://www).bfl.ai: The frontier AI research lab for visual intelligence. 
 - [DeepL](https://www.deepl.com) : Translation API.
+- [OpenWork](https://openwork.software/): Open-source desktop app delivers guided agentic workflows for knowledge-focused tasks #oss
 
 # CMS
 - [Name](link to website) : Short description #oss #selfhosted #cloud 
